@@ -15,3 +15,9 @@ Criando um Banco Digital com Java e Orientação a Objetos.
 
 ### 🔺Desafio 5
 Abstraindo um Bootcamp Usando Orientação a Objetos em Java
+
+## 🔺Desafio 6 (em desenvolvimento ⌛)
+Explorando padrões de projetos na prática com Java
+
+## 🔺Desafio 7 (em desenvolvimento ⌛)
+API REST na Nuvem usando Spring Boot 3, Java e Railway
